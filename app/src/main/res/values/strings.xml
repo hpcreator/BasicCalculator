@@ -1,3 +1,87 @@
 <resources>
-    <string name="app_name">Basic Calculator</string>
+    <string name="app_name">Calculator</string>
+
+    <string name="clear">CE</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="Zero">0</string>
+    <string name="dot">.</string>
+    <string name="equals">=</string>
+    <string name="ce">CE</string>
+    <string name="square">x²</string>
+    <string name="sqrt">√</string>
+    <string name="negative">±</string>
+    <string name="history">History</string>
+    <string name="delete">Delete History</string>
+    <string name="mode1">degree</string>
+    <string name="mode2">radian</string>
+    <string name="toggle">switch</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="naturalLog">ln</string>
+    <string name="hyperbolicSine">sin_h</string>
+    <string name="hyperbolicCosine">cosh</string>
+    <string name="hyperbolicTan">tan_h</string>
+    <string name="log">log</string>
+    <string name="Mod">%</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial">x!</string>
+    <string name="xPOV">xⁿ</string>
+    <string name="tenPOV">10\u207F</string>
+    <string name="sin_Inv">sin\u207B\u00B9</string>
+    <string name="cos_Inv">cos\u207B\u00B9</string>
+    <string name="tan_Inv">tan\u207B\u00B9</string>
+    <string name="e_POV">eⁿ</string>
+    <string name="pi">π</string>
+    <string name="cube">x\u00B3</string>
+    <string name="cube_Root">\u221B</string>
+
+    <string name="back">back</string>
+
+    <string name="textWithPlaceholder">%1$s, %2$s</string>
+    <string name="tooBigResult">Result too big!</string>
+    <string name="invalid">Invalid!!</string>
+    <string name="invalidExpression">Invalid Expression</string>
+    <string name="infinity">infinity</string>
+
+    <string name="valueTan">tan&#40;%1$s&#41;</string>
+    <string name="valueATan">atan&#40;%1$s&#41;</string>
+    <string name="valueATanD">atand&#40;%1$s&#41;</string>
+    <string name="valueTanH">tanh&#40;%1$s&#41;</string>
+
+    <string name="valueCos">cos&#40;%1$s&#41;</string>
+    <string name="valueACos">acos&#40;%1$s&#41;</string>
+    <string name="valueACosD">acosd&#40;%1$s&#41;</string>
+    <string name="valueCosH">cosh&#40;%1$s&#41;</string>
+
+    <string name="valueSin">sin&#40;%1$s&#41;</string>
+    <string name="valueASin">asin&#40;%1$s&#41;</string>
+    <string name="valueASinD">asind&#40;%1$s&#41;</string>
+    <string name="valueSinH">sinh&#40;%1$s&#41;</string>
+
+    <string name="n_power">&#40;%1$s&#41;&#94;</string>
+    <string name="ten_power">10&#94;&#40;%1$s&#41;</string>
+    <string name="e_power">e&#94;&#40;%1$s&#41;</string>
+    <string name="valueLn">ln&#40;%1$s&#41;</string>
+    <string name="valueLog">log&#40;%1$s&#41;</string>
+    <string name="valueSqrt">sqrt&#40;%1$s&#41;</string>
+    <string name="valueCbrt">cbrt&#40;%1$s&#41;</string>
+    <string name="valueOnesUpon">1/&#40;%1$s&#41;</string>
+    <string name="valuePowerCube">1/&#40;%1$s&#41;^3</string>
+    <string name="valuePowerSquare">&#40;%1$s&#41;^2</string>
+
 </resources>
